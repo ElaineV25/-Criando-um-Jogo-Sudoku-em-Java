@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "br.com/util",
+        "br.com/ui.custom/input",
+        "br.com/service",
+        ""
+    ]
+}
